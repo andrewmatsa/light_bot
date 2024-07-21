@@ -36,4 +36,5 @@ Make sure that you pick correct board in dropdown on the right below corner
 
 File -> Open -> This computer -> upload config.py, main.py and utelegram.py.
 If you click on MicroPython device you will see what uploaded in the board.
+
 ![img.png](images/open.png)
