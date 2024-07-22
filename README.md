@@ -1,4 +1,4 @@
-
+# ESP32 Light Notifier for Telegram
 Writing Telegram bots in Python is very popular nowadays. However, there is always one problem - hosting. You either have to run the bot constantly, rent hosting, or provide power and network access to the microcontroller and forget about all these issues.
 
 Python has several interpreters for microcontrollers, but the most popular one is MicroPython, which I will be using to write the bot.
