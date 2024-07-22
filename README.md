@@ -13,7 +13,7 @@ Python has several interpreters for microcontrollers, but the most popular one i
 
 <img src="images/scheme.png" width=50% height=50%> 
 
-1) Telegram
+# Telegram
 
 Create a new bot using BotFather.
 Open Telegram and search for BotFather.
