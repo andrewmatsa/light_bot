@@ -11,7 +11,7 @@ Python has several interpreters for microcontrollers, but the most popular one i
   
 <img src="images/esp32.png" width=30% height=30%> <img src="images/light_detection_module.png" width=30% height=30%> <img src="images/5volts.png" width=30% height=30%>
 
-<img src="images/scheme.png" width=30% height=30%> 
+<img src="images/scheme.png" width=50% height=50%> 
 
 1) Telegram
 
