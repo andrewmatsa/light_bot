@@ -9,6 +9,7 @@ Python has several interpreters for microcontrollers, but the most popular one i
 * Light detection module. https://alishort.com/KiPKn
 * 3.3-3.7 volts https://alishort.com/TiTo2
 ![img.png](images/esp32.png)
+<img src="images/esp32.png" width=50% height=50%>
 ![img.png](images/light_detection_module.png)
 ![img.png](images/5volts.png)
 1) Scheme
