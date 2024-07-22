@@ -13,7 +13,7 @@ Python has several interpreters for microcontrollers, but the most popular one i
 
 <img src="images/scheme.png" width=50% height=50%> 
 
-# Telegram
+# 1) Telegram
 
 Create a new bot using BotFather.
 Open Telegram and search for BotFather.
@@ -26,10 +26,10 @@ After this, BotFather will provide you with a token for your bot. Save this toke
 * Update your Email in config.py
 
 
-2) Create a new group. Add your bot to the group. Now everyone can join the group and receive notifications about disconnections or connections
+# 2) Create a new group. Add your bot to the group. Now everyone can join the group and receive notifications about disconnections or connections
 
 
-3) ESP32 flashing. 
+# 3) ESP32 flashing. 
 ESP32 flashing: Upload firmware to the board using PyCharm with a plugin or Thonny. I choose Thonny since it's faster and easier. https://thonny.org/
 
 * Open thonny 
