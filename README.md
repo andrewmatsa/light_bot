@@ -8,10 +8,9 @@ Python has several interpreters for microcontrollers, but the most popular one i
 * Also you need to have ESP32 dev board https://alishort.com/TiTo2
 * Light detection module. https://alishort.com/KiPKn
 * 3.3-3.7 volts https://alishort.com/TiTo2
-![img.png](images/esp32.png)
 <img src="images/esp32.png" width=50% height=50%>
-![img.png](images/light_detection_module.png)
-![img.png](images/5volts.png)
+<img src="images/light_detection_module.png" width=50% height=50%>
+<img src="images/5volts.png" width=50% height=50%>
 1) Scheme
 ![img.png](images/scheme.png)
 1) Telegram
