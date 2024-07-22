@@ -44,3 +44,4 @@ If you click on MicroPython device you will see what uploaded in the board.
 ![img.png](images/open.png)
 
 # Result
+![img.png](images/telegram_screen.png)
