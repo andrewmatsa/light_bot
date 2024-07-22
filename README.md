@@ -32,9 +32,9 @@ After this, BotFather will provide you with a token for your bot. Save this toke
 3) ESP32 flashing. 
 ESP32 flashing: Upload firmware to the board using PyCharm with a plugin or Thonny. I choose Thonny since it's faster and easier. https://thonny.org/
 
-Open thonny 
+* Open thonny 
 
-Tools -> Options -> Interpreter tab -> Micropython ESP32 -> Install or update Micropython -> pick and fill the same as on picture -> Click Install->Installed and flashed 100%
+* Tools -> Options -> Interpreter tab -> Micropython ESP32 -> Install or update Micropython -> pick and fill the same as on picture -> Click Install->Installed and flashed 100%
 ![img.png](images/flash_firmware.png)
 
 Make sure that you pick correct board in dropdown on the right below corner
