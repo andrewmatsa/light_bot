@@ -34,10 +34,10 @@ ESP32 flashing: Upload firmware to the board using PyCharm with a plugin or Thon
 * Tools -> Options -> Interpreter tab -> Micropython ESP32 -> Install or update Micropython -> pick and fill the same as on picture -> Click Install->Installed and flashed 100%
 ![img.png](images/flash_firmware.png)
 
-Make sure that you pick correct board in dropdown on the right below corner
+* Make sure that you pick correct board in dropdown on the right below corner
 ![img.png](images/thonny.png)
 
-File -> Open -> This computer -> upload config.py, main.py and utelegram.py.
+* File -> Open -> This computer -> upload config.py, main.py and utelegram.py.
 If you click on MicroPython device you will see what uploaded in the board.
 
 ![img.png](images/open.png)
