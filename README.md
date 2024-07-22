@@ -22,6 +22,11 @@ To create a new bot, enter the command /newbot.
 BotFather will ask for a name for your bot. Enter the name.
 Then, BotFather will ask for a username for your bot. It must end in bot (e.g., my_test_bot).
 After this, BotFather will provide you with a token for your bot. Save this token, as you will need it for setting up the bot.https://telegram.me/BotFather
+* Save this token in config.py.
+* Update your Email in config.py
+
+
+2) Add your bot to the group or channel.
 
 
 3) esp32 flashing. Upload firmware to the board with pycharm with plugin or thonny I choose thonny since it's faster https://thonny.org/
